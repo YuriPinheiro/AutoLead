@@ -1,0 +1,17 @@
+[
+  {
+    "origin": [
+      "http://localhost:3000",
+      "http://localhost:3000/*",
+      "https://goodbyecar.com.br",
+      "https://goodbyecar.com.br/*"
+    ],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600,
+    "responseHeader": [
+      "Content-Type",
+      "Cache-Control",
+      "Content-Disposition"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+    "headers": [
+        {
+            "source": "/__/auth/(.*)",
+            "headers": [
+                {
+                    "key": "Content-Type",
+                    "value": "text/html"
+                }
+            ]
+        }
+    ]
+}
