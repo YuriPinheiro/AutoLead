@@ -20,5 +20,5 @@ Sistema web desenvolvido em React para gerenciamento e publicação de veículos
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuuser/AutoLead.git
+   git clone https://github.com/YuriPinheiro/AutoLead.git
    cd AutoLead
